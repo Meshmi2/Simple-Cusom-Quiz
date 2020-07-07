@@ -1,0 +1,7 @@
+C:\Users\meshmi\source\repos\IQTest\bin\Debug\IQTest.exe.config
+C:\Users\meshmi\source\repos\IQTest\bin\Debug\IQTest.exe
+C:\Users\meshmi\source\repos\IQTest\bin\Debug\IQTest.pdb
+C:\Users\meshmi\source\repos\IQTest\obj\Debug\IQTest.csprojAssemblyReference.cache
+C:\Users\meshmi\source\repos\IQTest\obj\Debug\IQTest.csproj.CoreCompileInputs.cache
+C:\Users\meshmi\source\repos\IQTest\obj\Debug\IQTest.exe
+C:\Users\meshmi\source\repos\IQTest\obj\Debug\IQTest.pdb
